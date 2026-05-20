@@ -4,7 +4,7 @@
 
 # Jesús David
 
-### Técnico independiente
+### Futuro hacker
 
 - Aficionado en la ciberseguridad
 - ParrotOS > Kali Linux
