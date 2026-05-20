@@ -1,16 +1,22 @@
-## Hi there 👋
+<table>
+<tr>
+<td valign="top" width="45%">
 
-<!--
-**IMSC4RED/IMSC4RED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Jesús David
 
-Here are some ideas to get you started:
+### Técnico independiente
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Aficionado en la ciberseguridad
+- ParrotOS > Kali Linux
+- Desarrollador de software
+- Colombia
+
+</td>
+
+<td valign="top" align="right">
+
+<img width="650" alt="bochi" src="https://github.com/user-attachments/assets/438b3dd0-d75a-4918-bd8d-ee540c21198e" />
+
+</td>
+</tr>
+</table>
