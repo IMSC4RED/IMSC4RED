@@ -6,10 +6,10 @@
 
 ### Futuro hacker
 
-- Aficionado a la ciberseguridad
-- ParrotOS > Kali Linux
-- Desarrollador de software
-- Colombia
+💻 Desarrollador de software
+🔐 Aficionado a la ciberseguridad
+🐧 ParrotOS > Kali Linux
+⚡ Aprendiendo, creando y explorando tecnología cada día
 
 </td>
 
