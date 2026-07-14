@@ -2,12 +2,12 @@
 <tr>
 <td valign="top" width="45%">
 
-# Jesús David
+# Jesús Castillo
 ### Futuro hacker
 
 ```bash
 $ whoami
-> jesus_david
+> Jesus_Castillo
 
 $ cat perfil.txt
 > Desarrollador de software
